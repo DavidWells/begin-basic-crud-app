@@ -8,7 +8,6 @@ get /todos
 post /todos
 post /todos/delete
 get /
-get /cool
 
 @tables
 data
